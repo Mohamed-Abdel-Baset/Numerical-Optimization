@@ -1,4 +1,2 @@
-This repo contains all implementations of optimaization techniques (During Numerical Optimaization course among Ai scholarship) like : 
-1 - Gradient Descent and its variants (Batch - mini-Batch - Stochastic)
-2 - Momentum Based Gradient Descent and Nag
-3 - Adagrad - rmsprop - Adam
+This repo contains all implementations of optimaization techniques (During Numerical Optimaization course among Ai scholarship)
+
